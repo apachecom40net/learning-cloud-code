@@ -1,4 +1,4 @@
-# learning-cloud-code
+# learning-claude-code
 
 - [Claude Code](https://claude.com/product/claude-code)
 - [Skills Explained](https://claude.com/skills)
