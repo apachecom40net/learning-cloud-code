@@ -5,5 +5,9 @@
 - [Skills Blog](https://claude.com/blog/skills)
 - [Extend Claude Code with Skills](https://code.claude.com/docs/en/skills)
 
-- 📹 / [All Anthropic Courses (Code, MCP, ...)](https://anthropic.skilljar.com)
+# Getting Started with Anthropic Code
+- [Claude Code in Action](https://anthropic.skilljar.com/claude-code-in-action)
+
+# Key Resources
+- 📹 / [All Anthropic Courses (Code, MCP, ...)](https://anthropic.skilljar.com/)
 - ⬇️ / [Resources Download](https://claude.ai/downloads)
