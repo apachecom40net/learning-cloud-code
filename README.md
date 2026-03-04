@@ -4,4 +4,6 @@
 - [Skills Explained](https://claude.com/skills)
 - [Skills Blog](https://claude.com/blog/skills)
 - [Extend Claude Code with Skills](https://code.claude.com/docs/en/skills)
-- ⬇️| [Resources Download](https://claude.ai/downloads)
+
+- 📹 / [All Anthropic Courses (Code, MCP, ...)](https://anthropic.skilljar.com)
+- ⬇️ / [Resources Download](https://claude.ai/downloads)
